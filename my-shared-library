@@ -1,0 +1,3 @@
+def call()"{
+    sh "hi i am from devops team , this is shared library example"
+}
